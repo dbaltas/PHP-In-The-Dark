@@ -1,0 +1,17 @@
+PHP in the Dark is a workshop that talks about PHP in a non-web context. It is divided in 4 parts:
+
+1) shell scripting: simple command line bash scripts. How to use, how to work with input and output, specific tools, etc...
+
+2) daemons: explains how to properly set up a daemon, work with signals, etc...
+
+3) intraprocess communication: discusses communication between processes, queues, "multi-threading", etc...
+
+4) process distribution: spread the work over multiple servers
+
+The talk is available as a two to three hour workshop or as 2 one hour talks.
+
+For more information, feel free to contact:
+
+Jeroen Keppens
+jeroen@amazium.com
+http://www.amazium.com
