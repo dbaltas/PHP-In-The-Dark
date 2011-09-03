@@ -8,7 +8,7 @@
  *
  * @author Jeroen Keppens
  * @link http://www.amazium.com/blog/php-in-the-dark
- * @link https://github.com/Amazium/PHP-In-The-Dark/1-Input-Output/01-basic-input.php
+ * @link https://github.com/Amazium/PHP-In-The-Dark/blob/master/1-Input-Output/01-basic-input.php
  */
 
 echo '$_SERVER["argc"] = ' . $_SERVER['argc'] . PHP_EOL;
