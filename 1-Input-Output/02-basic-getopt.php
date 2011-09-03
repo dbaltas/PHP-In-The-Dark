@@ -7,7 +7,7 @@
  * Part of my conference talk and blog series PHP in the Dark
  *
  * @author Jeroen Keppens
- * @link http://www.amazium.com/blog/php-in-the-dark
+ * @link http://www.amazium.com/blog/php-in-the-dark-input-arguments
  * @link https://github.com/Amazium/PHP-In-The-Dark/blob/master/1-Input-Output/02-basic-getopt.php
  */
 

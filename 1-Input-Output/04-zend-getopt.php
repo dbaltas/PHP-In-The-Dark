@@ -7,8 +7,8 @@
  * Part of my conference talk and blog series PHP in the Dark
  *
  * @author Jeroen Keppens
- * @link http://www.amazium.com/blog/php-in-the-dark
- * @link https://github.com/Amazium/PHP-In-The-Dark/blob/master/1-Input-Output/03-pear-getopt.php
+ * @link http://www.amazium.com/blog/php-in-the-dark-input-arguments
+ * @link https://github.com/Amazium/PHP-In-The-Dark/blob/master/1-Input-Output/04-zend-getopt.php
  */
 
 // Include the Zend_Console_Getopt class
