@@ -21,7 +21,7 @@ function checkNA($value) {
 }
 
 // Create a new table and define the headers
-require '../Library/Console/Table.php';
+require 'Console/Table.php';
 $tbl = new Console_Table();
 $tbl->setHeaders(
     array('Title', 'Author', 'Published')

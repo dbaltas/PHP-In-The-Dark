@@ -11,7 +11,7 @@
  * @link https://github.com/Amazium/PHP-In-The-Dark/blob/master/2-Layout/03-console-table.php
  */
 
-require '../Library/Console/Table.php';
+require 'Console/Table.php';
 
 $tbl = new Console_Table();
 $tbl->setHeaders(
